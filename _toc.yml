@@ -17,6 +17,6 @@ parts:
       - file: chapter05/gpcr-signaling
       - file: chapter06/ionotropic-receptors
 
-  - caption: References
+  - caption: Back Matter
     chapters:
       - file: references
