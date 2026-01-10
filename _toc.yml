@@ -2,6 +2,14 @@ format: jb-book
 root: index
 
 parts:
+  - caption: Frontmatter
+    chapters:
+      - file: frontmatter/preface
+      - file: frontmatter/acknowledgements
+      - file: frontmatter/accessibility
+      - file: frontmatter/for-students
+      - file: frontmatter/for-instructors
+      - file: frontmatter/for-self-Learners
   - caption: Foundations
     chapters:
       - file: chapter01/introduction
