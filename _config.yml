@@ -19,4 +19,5 @@ bibtex_bibfiles:
 
 sphinx:
   config:
-    bibtex_reference_style: author_year
+    bibtex_reference_style: super
+    bibtex_default_style: unsrt
