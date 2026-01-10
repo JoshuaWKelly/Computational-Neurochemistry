@@ -47,11 +47,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-```
-
-### Step 5: Update `requirements.txt`
-```
-jupyter-book>=1.0.0
-sphinxcontrib-bibtex
-numpy
-matplotlib
