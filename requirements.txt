@@ -1,0 +1,6 @@
+jupyter-book>=1.0.0
+myst-nb
+sphinxcontrib-bibtex
+ghp-import
+numpy
+matplotlib
