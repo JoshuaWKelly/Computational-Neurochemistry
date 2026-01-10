@@ -1,3 +1,21 @@
+title: Computational Neurochemistry
+author: Joshua W. Kelly
+logo: ""
+
+execute:
+  execute_notebooks: auto
+
+repository:
+  url: https://github.com/JoshuaWKelly/Computational-Neurochemistry
+  branch: main
+
+html:
+  use_issues_button: true
+  use_repository_button: true
+
+bibtex_bibfiles:
+  - references.bib
+
 sphinx:
   config:
-    bibtex_reference_style: apa
+    bibtex_reference_style: author_year
