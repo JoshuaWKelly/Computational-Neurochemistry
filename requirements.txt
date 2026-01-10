@@ -1,3 +1,4 @@
-mystmd
+jupyter-book==0.15.1
+sphinxcontrib-bibtex
 numpy
 matplotlib
