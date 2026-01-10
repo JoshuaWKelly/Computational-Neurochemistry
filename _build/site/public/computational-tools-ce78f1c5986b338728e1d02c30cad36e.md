@@ -1,5 +1,0 @@
-# Computational Tools
-
-Schrodinger Equation: 
-
-$$

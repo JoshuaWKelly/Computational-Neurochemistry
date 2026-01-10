@@ -1,3 +1,0 @@
-# Computational Tools
-
-Schrodinger Equation
