@@ -2,7 +2,7 @@
 
 An open-access textbook bridging molecular neuroscience, biochemistry, and computational modeling.
 
-## 🌐 View the Book
+## View the Book
 
 **[Read online →](https://joshuawkelly.github.io/Computational-Neurochemistry/)**
 
@@ -10,7 +10,7 @@ An open-access textbook bridging molecular neuroscience, biochemistry, and compu
 
 This text is designed for both self-learners and instructor-led courses. It integrates simulation code, reproducible figures, and open-access formats.
 
-## 🛠️ Building Locally
+## Building Locally
 
 ```bash
 # Install dependencies
@@ -23,11 +23,11 @@ jupyter-book build .
 open _build/html/index.html
 ```
 
-## 📝 License
+## License
 
 MIT License - see [LICENSE](LICENSE) for details.
 
-## 👤 Author
+## Author
 
 Joshua W. Kelly  
 Verus Institute | Arizona State University  
