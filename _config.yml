@@ -19,4 +19,5 @@ bibtex_bibfiles:
 
 sphinx:
   config:
+    html_theme: sphinx_book_theme
     bibtex_reference_style: author_year
