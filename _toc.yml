@@ -20,14 +20,3 @@ parts:
   - caption: References
     chapters:
       - file: references
-```
-
-### Step 3: Add `.gitignore`
-
-Create a `.gitignore` file:
-```
-_build/
-.DS_Store
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
