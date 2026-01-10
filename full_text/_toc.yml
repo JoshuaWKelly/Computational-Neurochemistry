@@ -1,0 +1,54 @@
+format: jb-book
+root: index  # Your main landing page (index.md)
+
+parts:
+  - caption: Foundations
+    chapters:
+      - file: chapter01/introduction
+        title: Introduction to Computational Neurochemistry
+      - file: chapter02/neurochemical-basics
+        title: Core Neurochemistry Concepts
+      - file: chapter03/computational-tools
+        title: Tools and Simulation Environments
+
+  - caption: Receptor Dynamics and Signaling
+    chapters:
+      - file: chapter04/ligand-binding
+        title: Ligand-Receptor Kinetics
+        sections:
+          - file: chapter04/markov-models
+          - file: chapter04/cooperativity
+      - file: chapter05/gpcr-signaling
+        title: G-Protein Coupled Receptors
+      - file: chapter06/ionotropic-receptors
+        title: Ionotropic Receptors and Channel Gating
+
+  - caption: Synaptic Transmission
+    chapters:
+      - file: chapter07/vesicle-release
+        title: Neurotransmitter Release
+      - file: chapter08/cleft-diffusion
+        title: Diffusion in the Synaptic Cleft
+      - file: chapter09/short-term-plasticity
+        title: Calcium-Dependent Plasticity Mechanisms
+
+  - caption: Neuromodulation and Metabolism
+    chapters:
+      - file: chapter10/volume-transmission
+        title: Volume Transmission and Extrasynaptic Signaling
+      - file: chapter11/second-messengers
+        title: Second Messenger Cascades
+      - file: chapter12/metabolic-modeling
+        title: Energy Metabolism in Neurons
+
+  - caption: Advanced Topics
+    chapters:
+      - file: chapter13/drug-effects
+        title: Pharmacological Modeling
+      - file: chapter14/pathological-states
+        title: Modeling Neurochemical Disorders
+
+  - caption: Appendices
+    chapters:
+      - file: appendices/math-primer
+      - file: appendices/code-gallery

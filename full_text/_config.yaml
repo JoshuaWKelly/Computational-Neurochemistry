@@ -1,0 +1,3 @@
+sphinx:
+  config:
+    bibtex_reference_style: apa
