@@ -27,4 +27,4 @@ parts:
 
   - caption: Back Matter
     chapters:
-      - file: references
+      - file: backmatter/references
