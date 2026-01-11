@@ -2,7 +2,7 @@
 Basics this is a citation.{cite:p}`kassalPolynomialtimeQuantumAlgorithm2008`
 
 
-```{tab-set}
+````{tab-set}
 ```{tab-item} Rendered Math
 ​$$
 \bar{x} =
@@ -20,4 +20,4 @@ The simple average is equal to the sum of x sub i divided by n.$
 \frac{x_1 + x_2 + x_3 ... + x_n}{n}$
 ```
 ```
-```
+````
