@@ -14,4 +14,16 @@ This preregistration describes the intent, scope, and methodological framework o
 
 In October I wrote a [preprint](https://doi.org/10.17605/OSF.IO/DYZ3K) on OSF. 
 
+````{tab-set}
+```{tab-item} APA
+Kelly, J. W. (2026). Computational Neurochemistry. Preprint. https://doi.org/10.17605/OSF.IO/DYZ3K
+```
+```{tab-item} MLA
+Kelly, Joshua W. "Computational Neurochemistry." Preprint, 2026, https://doi.org/10.17605/OSF.IO/DYZ3K.
+```
+```{tab-item} Nature
+Kelly, J. W. (2026). Computational Neurochemistry. Preprint. https://doi.org/10.17605/OSF.IO/DYZ3K
+```
+````
+
 Version 1.0.0 | 2026-01-06
