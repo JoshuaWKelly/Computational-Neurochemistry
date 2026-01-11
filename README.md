@@ -27,6 +27,49 @@ open _build/html/index.html
 
 MIT License - see [LICENSE](LICENSE) for details.
 
+
+## Project Structure
+
+```
+Computational-Neurochemistry/
+├── .github/
+│   └── workflows/
+│       ├── deploy.yml
+│       └── static.yml
+├── _build/
+│   └── logs/
+│       └── myst.build.json
+├── chapter01/
+│   └── introduction.md
+├── chapter02/
+│   └── neurochemical-basics.md
+├── chapter03/
+│   └── computational-tools.md
+├── chapter04/
+│   ├── ligand-binding.md
+│   ├── markov-models.md
+│   └── cooperativity.md
+├── chapter05/
+│   └── gpcr-signaling.md
+├── chapter06/
+│   └── ionotropic-receptors.md
+├── frontmatter/
+│   ├── preface.md
+│   ├── acknowledgements.md
+│   ├── accessibility.md
+│   ├── for-students.md
+│   ├── for-instructors.md
+│   └── for-self-Learners.md
+├── _config.yml
+├── _toc.yml
+├── index.md
+├── references.bib
+├── references.md
+├── requirements.txt
+├── LICENSE
+└── README.md
+```
+
 ## Author
 
 Joshua W. Kelly  
