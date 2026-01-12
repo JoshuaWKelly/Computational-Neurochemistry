@@ -8,7 +8,7 @@ Joshua W. Kelly[^1][^2][^3]
 [^2]: Arizona State University, Tempe, AZ, USA 
 [^3]: Email: jkelly@verusinstitute.org
 
-![Cover-image](../Detail_of_Bénard-Chemistry:chemicallaboratory-1762-1773.png)
+![Cover](../images/cover.png)
 
 ## Welcome! 
 
