@@ -10,19 +10,16 @@ Joshua W. Kelly[^1][^2][^3]
 
 ## Welcome! 
 
-This preregistration describes the intent, scope, and methodological framework of Computational Neurochemistry, a text designed for both self-learners and instructor led courses bridging molecular neuroscience, biochemistry, and computational modeling. The work integrates simulation code, reproducible figures, and open-access formats (PDF, EPUB, Markdown, TXT) distributed via GitHub Pages. It is conceived as both a pedagogical and research-support resource, aiming to formalize computational neurochemistry as an integrated field. The preregistration outlines the book's conceptual structure, pedagogical design, and ethical commitments to open science, accessibility, and transparency.
+_Computational Neurochemistry_ is a text designed for both self-learners and instructor led courses bridging molecular neuroscience, biochemistry, and computational modeling. The work integrates simulation code, reproducible figures, and open-access formats (PDF, EPUB, Markdown, TXT) distributed via GitHub Pages. It is conceived as both a pedagogical and research-support resource, aiming to formalize computational neurochemistry as an integrated field. 
 
-In October I wrote a [preprint](https://doi.org/10.17605/OSF.IO/DYZ3K) on OSF. 
+In October 2025 I wrote a [preregistration](https://doi.org/10.17605/OSF.IO/DYZ3K) on OSF. 
 
 ````{tab-set}
 ```{tab-item} APA
-Kelly, J. W. (2026). Computational Neurochemistry. Preprint. https://doi.org/10.17605/OSF.IO/DYZ3K
+Kelly, J. W. (2026). _Computational Neurochemistry_ (Version 1.0.0). https://joshuawkelly.github.io/Computational-Neurochemistry/index.html
 ```
 ```{tab-item} MLA
-Kelly, Joshua W. "Computational Neurochemistry." Preprint, 2026, https://doi.org/10.17605/OSF.IO/DYZ3K.
-```
-```{tab-item} Nature
-Kelly, J. W. (2026). Computational Neurochemistry. Preprint. https://doi.org/10.17605/OSF.IO/DYZ3K
+Kelly, Joshua W. _Computational Neurochemistry_. 2026, Version 1.0.0. https://joshuawkelly.github.io/Computational-Neurochemistry/index.html.
 ```
 ````
 
