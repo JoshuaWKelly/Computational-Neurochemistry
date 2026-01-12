@@ -7,7 +7,7 @@ parts:
       - file: frontmatter/preface
       - file: frontmatter/acknowledgements
       - file: frontmatter/major-problem-list
-      - file: frontmatter/accessibility
+      - file: frontmatter/Universal-Design
       - file: frontmatter/for-students
       - file: frontmatter/for-instructors
       - file: frontmatter/for-self-Learners
