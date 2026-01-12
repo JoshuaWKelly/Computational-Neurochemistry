@@ -8,7 +8,13 @@ Joshua W. Kelly[^1][^2][^3]
 [^2]: Arizona State University, Tempe, AZ, USA 
 [^3]: Email: jkelly@verusinstitute.org
 
-![Cover](images/cover.png)
+
+```{figure} images/cover.png
+:name: cover-figure
+:alt: Cover image
+
+Bénard, 1731-1794. (1762-1773). Chemistry: a chemical laboratory with many workers (above), symbols of elements arranged in a proto-periodic table (?) (below). Engraving by R. Bénard. [1 print : engraving]. Wellcome Collection. https://jstor.org/stable/community.24857469 License: [PDM 1.0](https://creativecommons.org/publicdomain/mark/1.0/).
+```
 
 ## Welcome! 
 
