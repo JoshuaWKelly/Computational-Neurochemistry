@@ -8,6 +8,8 @@ Joshua W. Kelly[^1][^2][^3]
 [^2]: Arizona State University, Tempe, AZ, USA 
 [^3]: Email: jkelly@verusinstitute.org
 
+![Cover-image](../Detail_of_Bénard-Chemistry:chemicallaboratory-1762-1773.jpg)
+
 ## Welcome! 
 
 _Computational Neurochemistry_ is a text designed for both self-learners and instructor led courses bridging molecular neuroscience, biochemistry, and computational modeling. The work integrates simulation code, reproducible figures, and open-access formats (PDF, EPUB, Markdown, TXT) distributed via GitHub Pages. It is conceived as both a pedagogical and research-support resource, aiming to formalize computational neurochemistry as an integrated field. 
