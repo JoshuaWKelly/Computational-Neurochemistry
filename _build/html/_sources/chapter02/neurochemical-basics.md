@@ -1,4 +1,4 @@
-# neurochemical-basics
+# Neurochemical Basics
 Basics this is a citation.{cite:p}`kassalPolynomialtimeQuantumAlgorithm2008`
 
 `````{tab-set}

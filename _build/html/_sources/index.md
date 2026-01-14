@@ -4,9 +4,9 @@
 
 Joshua W. Kelly[^1][^2][^3]
 
-[^1]: Verus Institute, Pittsburgh, PA, USA 
-[^2]: Arizona State University, Tempe, AZ, USA 
-[^3]: Email: jkelly@verusinstitute.org
+[^1]: [Verus Institute](https://verusinstitute.org), Pittsburgh, PA, USA 
+[^2]: [Arizona State University](https://www.asu.edu), Tempe, AZ, USA 
+[^3]: Email: [jkelly@verusinstitute.org](mailto:jkelly@verusinstitute.org)
 
 
 ```{figure} images/cover.png
