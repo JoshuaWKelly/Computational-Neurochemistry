@@ -1,0 +1,43 @@
+version: 1
+project:
+  title: Computational Neurochemistry
+  authors:
+    - name: Joshua W. Kelly
+  github: https://github.com/JoshuaWKelly/Computational-Neurochemistry
+  bibliography:
+    - references.bib
+  toc:
+    - file: index
+    - title: Frontmatter
+      children:
+        - file: frontmatter/preface
+        - file: frontmatter/acknowledgements
+        - file: frontmatter/major-problem-list
+        - file: frontmatter/Universal-Design
+        - file: frontmatter/for-students
+        - file: frontmatter/for-instructors
+        - file: frontmatter/for-self-Learners
+    - title: Foundations
+      children:
+        - file: chapter01/introduction
+        - file: chapter02/neurochemical-basics
+        - file: chapter03/computational-tools
+    - title: Receptor Dynamics and Signaling
+      children:
+        - file: chapter04/ligand-binding
+          children:
+            - file: chapter04/markov-models
+            - file: chapter04/cooperativity
+        - file: chapter05/gpcr-signaling
+        - file: chapter06/ionotropic-receptors
+    - title: Back Matter
+      children:
+        - file: backmatter/references
+
+site:
+  template: book-theme
+  options:
+    logo: ""
+  actions:
+    - title: GitHub
+      url: https://github.com/JoshuaWKelly/Computational-Neurochemistry
