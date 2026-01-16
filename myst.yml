@@ -36,6 +36,7 @@ project:
 
 site:
   template: book-theme
+  base: /Computational-Neurochemistry
   options:
     logo: ""
   actions:
