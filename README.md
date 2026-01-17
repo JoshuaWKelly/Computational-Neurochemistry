@@ -13,14 +13,14 @@ This text is designed for both self-learners and instructor-led courses. It inte
 ## Building Locally
 
 ```bash
-# Install dependencies
-pip install -r requirements.txt
+# Install MyST globally
+npm install -g mystmd
 
-# Build the book
-jupyter-book build .
+# Navigate to your project folder
+cd your-book-folder
 
-# View locally
-open _build/html/index.html
+# Start the local dev server
+myst start
 ```
 
 ## License
