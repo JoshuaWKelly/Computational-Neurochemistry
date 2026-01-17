@@ -29,6 +29,7 @@ project:
         - file: chapter02/neurochemical-basics
         - file: chapter03/computational-tools
         - file: chapter04/mathematical-foundations
+        - file: chapter04/chemical-basics
     - title: Receptor Dynamics and Signaling
       children:
         - file: chapter04/ligand-binding
