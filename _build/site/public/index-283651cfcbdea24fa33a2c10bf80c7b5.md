@@ -29,12 +29,11 @@ Kelly, J. W. (2026). _Computational Neurochemistry_ (Version 1.0.0). https://jos
 ```{tab-item} MLA
 Kelly, Joshua W. _Computational Neurochemistry_. 2026, Version 1.0.0. https://joshuawkelly.github.io/Computational-Neurochemistry/index.html.
 ```
-```{tab-item} Chicago
-Kelly, Joshua W. Computational Neurochemistry. Version 1.0.0. 2026. https://joshuawkelly.github.io/Computational-Neurochemistry/
-```
-```{tab-item} Nature
-Kelly, J. W. Computational Neurochemistry. Version 1.0.0 (2026). Available at https://joshuawkelly.github.io/Computational-Neurochemistry/
-```
+
 ````
 
 Version 1.0.0 | 2026-01-06
+
+
+Kelly, Joshua W. Computational Neurochemistry. Version 1.0.0. 2026.
+https://joshuawkelly.github.io/Computational-Neurochemistry/
