@@ -3,6 +3,12 @@ project:
   title: Computational Neurochemistry
   authors:
     - name: Joshua W. Kelly
+      affiliations:
+        - Verus Institute
+        - Arizona State University
+      orcid: 0009-0004-7363-4837
+      email: jkelly@verusinstitute.org
+  license: CC-BY-4.0
   github: https://github.com/JoshuaWKelly/Computational-Neurochemistry
   bibliography:
     - references.bib
