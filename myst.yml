@@ -45,6 +45,7 @@ site:
   base: /Computational-Neurochemistry
   options:
     logo: ""
+    numbered_references: true
   actions:
     - title: GitHub
       url: https://github.com/JoshuaWKelly/Computational-Neurochemistry
